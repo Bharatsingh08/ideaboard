@@ -1,0 +1,24 @@
+.img{
+    max-width: 100%;
+}
+.orange{
+    width: 43.75rem;
+   height: 43.75rem;
+    top: -9.7rem;
+    left: -8.1rem;
+    position: absolute;
+    }
+.green{
+position: absolute;
+width: 41rem;
+height: 28rem;
+left: 18rem;
+top: 12.5rem;
+}
+.blue{
+width: 42.5rem;
+position: absolute;
+height: 42.5rem;
+left: 37.5rem;
+top: -7.5rem;
+}

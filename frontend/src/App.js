@@ -1,15 +1,12 @@
 import './App.css';
-
-import Register from './pages/Register';
-
+import Login from './pages/Login';
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-       <Register />
+         <div className="App">
+         <header className="App-header">
+         <Login/>
       </header>
-    </div>
+         </div>
   );
 }
-
 export default App;
