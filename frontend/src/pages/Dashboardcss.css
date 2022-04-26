@@ -1,0 +1,48 @@
+body{
+    background-color: #E5E5E5;;
+}
+.img{
+    max-width: 100%;
+    position: absolute;
+    }
+.hrlogo{
+    width: 10rem;
+       }
+.Navbar-brand{
+background-color: #f0f0f0ea !important;
+position: relative;
+color: #666666 !important;
+}
+.Navbar-brand li{
+padding-left: 9rem;
+Font :Century Gothic;
+font-weight: 400;
+Size:1.6rem;
+line-height: 1.8rem; 
+align-items: center;
+}
+
+.Contactus{
+    color: orangered !important;
+    font-weight:bolder;
+}
+.newsbarcss{
+background-color: #8CD163 !important;
+position: relative;
+max-width: 100%;
+color: #ffffff !important;
+height: 2.5rem;
+display: flex;
+align-items: center;
+bottom:1.4rem;
+}
+.newsbarcsstext{
+font: Poppins;
+font-weight:400;
+Size:6rem;
+line-height: 1.8rem;
+display: flex;
+align-items: center;
+padding-top: 0.5rem;
+font-style: italic;
+}
